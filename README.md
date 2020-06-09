@@ -1,0 +1,1 @@
+# git-submodule-member-2
